@@ -27,9 +27,10 @@ deviations from the initial state of charge (SOC).
 FTP-75
 <img width="331" alt="image" src="https://github.com/user-attachments/assets/dd834be8-2b20-4798-829e-2dc2684af535" />
 
-NEDC
 
-<img width="323" alt="image" src="https://github.com/user-attachments/assets/2505d8dd-7d03-4c53-95e2-836f07ebf377" />
+
+NEDC
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/2505d8dd-7d03-4c53-95e2-836f07ebf377" />
 
 
 
