@@ -22,7 +22,7 @@ improvement in fuel consumption maintaining low
 deviations from the initial state of charge (SOC).
 
 
-# RESULTS
+# Results
 
 **FTP-75**
 
@@ -37,4 +37,7 @@ deviations from the initial state of charge (SOC).
 
 ![alt text](image.png)
       
+# Requirements
 
+1. MATLAB
+2. Simulink
