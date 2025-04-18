@@ -7,7 +7,7 @@ solution with a sustainable and cleaner environment
 through a reduction in emission and reduced fossil fuel 
 consumption. The increased optimized efficiency 
 requirements have led to the development of various 
-Energy management Strategies. This paper focuses on the 
+Energy management Strategies. This project focuses on the 
 Rule-based energy management technique and its 
 implementation on a typical Parallel Hybrid Vehicle 
 (Mercedes- Benz A-Class 170 CDI). The strategy is used 
