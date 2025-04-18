@@ -22,7 +22,14 @@ improvement in fuel consumption maintaining low
 deviations from the initial state of charge (SOC).
 
 
-![image](https://github.com/user-attachments/assets/f6842b6b-cbba-44b5-817e-cdd6c8fcc91b)
-![image](https://github.com/user-attachments/assets/0eb75e8b-a409-4a3b-859c-db14a9b45cd8)
+# RESULTS
+
+FTP-75
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/dd834be8-2b20-4798-829e-2dc2684af535" />
+
+NEDC
+
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/2505d8dd-7d03-4c53-95e2-836f07ebf377" />
+
 
 
